@@ -25,10 +25,13 @@
 
 接下来是非常关键的table元素更新：  
 table元素的更新就是dynamic programming的特征之一的Optimal Substructure。  
- >                   table[i] = sub_res + 1 
+>                   table[i] = sub_res + 1 
  因为sub_res是其中一种coin面值的余数，余数的table值indicate的是上一层的策略结果（对应dp概念）。  
 
-
+Time complexity : O(S*n).   
+ > where S is the amount, n is denomination count.   
+ 
+Space complexity : O(S)O(S).
 
 两个动态编程的特征：
  * 1. Overlapping Subproblems
