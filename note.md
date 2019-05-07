@@ -2,6 +2,15 @@
 
 > 当天计划模板
 
+### 当天任务
+1. 构思discrete action的rules，（初构）。
+2. 解决jupyter notebook import machina不成功的问题。
+3. 略读Meta Learning 论文，大概了解assignment的大体。
+4. 完成leetcode permutation那道题。
+5. 安装日语输入法，尝试完成日语台词文法解析adventure第一集。
+6. 打扫洗澡间，亚马逊购买铺在洗澡间门口的垫子。（或者看看实验室有没有）
+7. 
+
 
 5:30 ～ 6:00 leetcode   
 6:05 ~ 7:00 leetcode  
@@ -10,7 +19,10 @@
 10:00 ～ 11:00 锻炼，囚徒健身  
 11:00 ～ 12:00 日语电视剧解读   
 
-
+### 备忘录
+* 1. 回去的时候取走一双粉红色手套，用以清洁卧室。
+* 2. 
+  
 ### 322. Coin Change
 ![](coin_change_dp.png)
 
